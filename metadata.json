@@ -1,0 +1,6 @@
+{
+  "name": "Jigsaw Collaborative Learning",
+  "description": "An interactive digital hub for Jigsaw Collaborative Learning, featuring an AI jigsaw packet builder, beautiful visual classroom flow simulation, live session guides, and comprehensive methodology resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
